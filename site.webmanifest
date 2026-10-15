@@ -1,0 +1,15 @@
+{
+  "name": "Sreehari Rajan — Cloud Microservices & Agentic AI Portfolio",
+  "short_name": "Sreehari Rajan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080c14",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
